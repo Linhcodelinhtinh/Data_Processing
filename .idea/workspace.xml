@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ded31f62-1cbb-4d6a-8a37-d24ab9fd97dc" name="Changes" comment="commit" />
+    <list default="true" id="ded31f62-1cbb-4d6a-8a37-d24ab9fd97dc" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/something/DataMining.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/something/DataMining.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/something/XGBoost.csv" beforeDir="false" afterPath="$PROJECT_DIR$/something/XGBoost.csv" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
