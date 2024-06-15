@@ -1,0 +1,576 @@
+,commit_month,Author,Passed all test
+573,1.0,James Lamb,True
+572,1.0,dependabot[bot],True
+571,1.0,Jiaming Yuan,True
+570,1.0,Jiaming Yuan,True
+569,1.0,James Lamb,True
+568,1.0,Jiaming Yuan,True
+567,1.0,Jiaming Yuan,True
+566,1.0,Bobby Wang,True
+565,1.0,Jiaming Yuan,True
+564,1.0,Jiaming Yuan,True
+563,1.0,Emre Batuhan Baloğlu,True
+562,1.0,Jiaming Yuan,True
+561,1.0,Bobby Wang,True
+560,1.0,Jiaming Yuan,True
+559,1.0,Jiaming Yuan,True
+558,1.0,Jiaming Yuan,True
+557,1.0,Bobby Wang,True
+556,1.0,Jiaming Yuan,True
+555,1.0,Jiaming Yuan,True
+554,1.0,Jiaming Yuan,True
+553,1.0,Jiaming Yuan,True
+552,1.0,James Lamb,True
+551,1.0,Jiaming Yuan,True
+550,1.0,James Lamb,True
+549,1.0,dependabot[bot],True
+548,1.0,dependabot[bot],True
+547,1.0,Jiaming Yuan,True
+546,1.0,Jiaming Yuan,True
+545,1.0,Jiaming Yuan,True
+544,1.0,Jiaming Yuan,True
+543,1.0,James Lamb,True
+542,1.0,Jiaming Yuan,True
+541,1.0,James Lamb,True
+540,1.0,Rong Ou,True
+539,1.0,Jiaming Yuan,True
+538,1.0,Jiaming Yuan,True
+537,1.0,Jiaming Yuan,True
+536,1.0,James Lamb,True
+535,1.0,Jiaming Yuan,True
+534,1.0,Jiaming Yuan,True
+533,1.0,Jiaming Yuan,True
+532,1.0,Jiaming Yuan,True
+531,1.0,James Lamb,True
+530,1.0,Philip Hyunsu Cho,True
+529,1.0,James Lamb,True
+528,1.0,Rong Ou,True
+527,1.0,Jiaming Yuan,True
+526,1.0,Jiaming Yuan,True
+525,1.0,Jiaming Yuan,True
+524,1.0,James Lamb,True
+523,1.0,Hamel Husain,True
+522,2.0,Jiaming Yuan,True
+521,2.0,Philip Hyunsu Cho,True
+520,2.0,BenEfrati,True
+519,2.0,Jiaming Yuan,True
+518,2.0,Rong Ou,True
+517,2.0,Rory Mitchell,True
+516,2.0,Jiaming Yuan,True
+515,2.0,Jiaming Yuan,True
+514,2.0,Jiaming Yuan,True
+513,2.0,Jiaming Yuan,True
+512,2.0,Jiaming Yuan,True
+511,2.0,Jiaming Yuan,True
+510,2.0,Rong Ou,True
+509,2.0,Jiaming Yuan,True
+508,2.0,Jiaming Yuan,True
+507,2.0,Jiaming Yuan,True
+506,2.0,Dai-Jie (Jay) Wu,True
+505,2.0,Jiaming Yuan,True
+504,2.0,Jiaming Yuan,True
+503,2.0,Jiaming Yuan,True
+502,2.0,Jiaming Yuan,True
+501,2.0,Jiaming Yuan,True
+500,2.0,Rong Ou,True
+499,2.0,Jiaming Yuan,True
+498,2.0,Jiaming Yuan,True
+497,2.0,Jiaming Yuan,True
+496,2.0,Jiaming Yuan,True
+495,2.0,Jiaming Yuan,True
+494,2.0,WeichenXu,True
+493,2.0,Rong Ou,True
+492,2.0,Jiaming Yuan,True
+491,2.0,Jiaming Yuan,True
+490,2.0,Jiaming Yuan,True
+489,2.0,Jiaming Yuan,True
+488,2.0,Jiaming Yuan,True
+487,2.0,Jiaming Yuan,True
+486,2.0,dependabot[bot],True
+485,2.0,dependabot[bot],True
+484,2.0,dependabot[bot],True
+483,2.0,Rong Ou,True
+482,2.0,Mauro Leggieri,True
+481,2.0,Rong Ou,True
+480,2.0,Jiaming Yuan,True
+479,3.0,Philip Hyunsu Cho,True
+478,3.0,Rong Ou,True
+477,3.0,Rong Ou,True
+476,3.0,Jiaming Yuan,True
+475,3.0,mzzhang95,True
+474,3.0,Rory Mitchell,True
+473,3.0,Rong Ou,True
+472,3.0,Jiaming Yuan,True
+471,3.0,Jiaming Yuan,True
+470,3.0,Jiaming Yuan,True
+469,3.0,Jiaming Yuan,True
+468,3.0,Jiaming Yuan,True
+467,3.0,Jiaming Yuan,True
+466,3.0,dependabot[bot],True
+465,3.0,dependabot[bot],True
+464,3.0,dependabot[bot],True
+463,3.0,dependabot[bot],True
+462,3.0,dependabot[bot],True
+461,3.0,Jiaming Yuan,True
+460,3.0,dependabot[bot],True
+459,3.0,Jiaming Yuan,True
+458,3.0,dependabot[bot],True
+457,3.0,Jiaming Yuan,True
+456,3.0,Krzysztof Dyba,True
+455,3.0,Jiaming Yuan,True
+454,3.0,Jiaming Yuan,True
+453,3.0,Jiaming Yuan,True
+452,3.0,Jiaming Yuan,True
+451,3.0,Jiaming Yuan,True
+450,3.0,Jiaming Yuan,True
+449,3.0,Rong Ou,True
+448,3.0,Jiaming Yuan,True
+447,3.0,Jiaming Yuan,True
+446,3.0,Jiaming Yuan,True
+445,3.0,Jiaming Yuan,True
+444,3.0,Jiaming Yuan,True
+443,3.0,Jiaming Yuan,True
+442,3.0,Jiaming Yuan,True
+441,3.0,Jiaming Yuan,True
+440,3.0,Jiaming Yuan,True
+439,3.0,Jiaming Yuan,True
+438,3.0,Jiaming Yuan,True
+437,3.0,Jiaming Yuan,True
+436,3.0,dependabot[bot],True
+435,3.0,Philip Hyunsu Cho,True
+434,3.0,Jiaming Yuan,True
+433,3.0,Jiaming Yuan,True
+432,3.0,Quentin Fiard,True
+431,3.0,Philip Hyunsu Cho,True
+430,3.0,Jiaming Yuan,True
+429,3.0,dependabot[bot],True
+428,3.0,Philip Hyunsu Cho,True
+427,3.0,Rong Ou,True
+426,3.0,Jiaming Yuan,True
+425,3.0,Jiaming Yuan,True
+424,3.0,Jiaming Yuan,True
+423,3.0,Jiaming Yuan,True
+422,3.0,Jiaming Yuan,True
+421,3.0,Jiaming Yuan,True
+420,3.0,Jiaming Yuan,True
+419,3.0,Jiaming Yuan,True
+418,3.0,dependabot[bot],True
+417,3.0,dependabot[bot],True
+416,3.0,dependabot[bot],True
+415,3.0,Jiaming Yuan,True
+414,3.0,Jiaming Yuan,True
+413,3.0,Jiaming Yuan,True
+412,3.0,Rong Ou,True
+411,3.0,Philip Hyunsu Cho,True
+410,3.0,Jiaming Yuan,True
+409,3.0,Rong Ou,True
+408,3.0,Jiaming Yuan,True
+407,3.0,Jiaming Yuan,True
+406,3.0,Jiaming Yuan,True
+405,3.0,Jiaming Yuan,True
+404,3.0,Jiaming Yuan,True
+403,3.0,Jiaming Yuan,True
+402,3.0,Jiaming Yuan,True
+401,4.0,Rong Ou,True
+400,4.0,Jiaming Yuan,True
+399,4.0,Sarah Charlotte Johnson,False
+398,4.0,Jiaming Yuan,True
+397,4.0,Jiaming Yuan,True
+396,4.0,Philip Hyunsu Cho,True
+395,4.0,WeichenXu,True
+394,4.0,Rong Ou,True
+393,4.0,Jiaming Yuan,True
+392,4.0,Rong Ou,True
+391,4.0,Jiaming Yuan,True
+390,4.0,Emil Ejbyfeldt,True
+389,4.0,dependabot[bot],True
+388,4.0,Jiaming Yuan,True
+387,4.0,Philip Hyunsu Cho,True
+386,4.0,Jiaming Yuan,True
+385,4.0,dependabot[bot],True
+384,4.0,dependabot[bot],True
+383,4.0,austinzh,True
+382,4.0,Jiaming Yuan,True
+381,4.0,Rong Ou,True
+380,4.0,Jiaming Yuan,False
+379,4.0,Bobby Wang,False
+378,4.0,Bobby Wang,False
+377,4.0,dependabot[bot],False
+376,4.0,Bobby Wang,False
+375,4.0,dependabot[bot],False
+374,4.0,Rong Ou,False
+373,4.0,Boris,False
+372,4.0,Scott Gustafson,False
+371,4.0,Jiaming Yuan,False
+370,4.0,Rong Ou,False
+369,4.0,Jiaming Yuan,False
+368,4.0,Jiaming Yuan,True
+367,4.0,Jiaming Yuan,True
+366,4.0,Jiaming Yuan,True
+365,4.0,Rong Ou,True
+364,4.0,Jiaming Yuan,True
+363,4.0,Bobby Wang,True
+362,4.0,Jiaming Yuan,True
+361,4.0,Jiaming Yuan,True
+360,5.0,Philip Hyunsu Cho,True
+359,5.0,Jiaming Yuan,True
+358,5.0,Rong Ou,True
+357,5.0,Jiaming Yuan,True
+356,5.0,Uriya Harpeness,True
+355,5.0,Jiaming Yuan,False
+354,5.0,Jiaming Yuan,True
+353,5.0,Philip Hyunsu Cho,True
+352,5.0,dependabot[bot],True
+351,5.0,dependabot[bot],True
+350,5.0,Jiaming Yuan,True
+349,5.0,Rong Ou,True
+348,5.0,Rong Ou,True
+347,5.0,Stephan T. Lavavej,True
+346,5.0,Stephan T. Lavavej,True
+345,5.0,Stephan T. Lavavej,True
+344,5.0,Bobby Wang,True
+343,5.0,Bobby Wang,True
+342,5.0,Bobby Wang,True
+341,5.0,Jiaming Yuan,True
+340,5.0,dependabot[bot],True
+339,5.0,dependabot[bot],True
+338,5.0,dependabot[bot],True
+337,5.0,dependabot[bot],True
+336,5.0,dependabot[bot],True
+335,5.0,Rong Ou,True
+334,5.0,Rong Ou,True
+333,5.0,dependabot[bot],False
+332,5.0,Jiaming Yuan,True
+331,5.0,michael-gendy-mention-me,True
+330,5.0,Jiaming Yuan,True
+329,5.0,Boris,True
+328,5.0,dependabot[bot],True
+327,5.0,Jiaming Yuan,True
+326,5.0,Bobby Wang,True
+325,5.0,Jean Lescut-Muller,True
+324,5.0,Jiaming Yuan,True
+323,5.0,dependabot[bot],True
+322,5.0,Jiaming Yuan,True
+321,5.0,Jiaming Yuan,True
+320,5.0,Jiaming Yuan,True
+319,5.0,Jiaming Yuan,True
+318,5.0,Jiaming Yuan,True
+317,5.0,ZHAOKAI WANG,True
+316,6.0,dependabot[bot],True
+315,6.0,Boris,True
+314,6.0,Philip Hyunsu Cho,True
+313,6.0,Jiaming Yuan,True
+312,6.0,Philip Hyunsu Cho,True
+311,6.0,Philip Hyunsu Cho,True
+310,6.0,Philip Hyunsu Cho,True
+309,6.0,Rong Ou,True
+308,6.0,dependabot[bot],True
+307,6.0,Boris,True
+306,6.0,Jiaming Yuan,True
+305,6.0,Jiaming Yuan,True
+304,6.0,dependabot[bot],True
+303,6.0,dependabot[bot],True
+302,6.0,ZHAOKAI WANG,True
+301,6.0,Rong Ou,False
+300,6.0,Philip Hyunsu Cho,False
+299,6.0,Philip Hyunsu Cho,False
+298,6.0,Philip Hyunsu Cho,True
+297,6.0,Jiaming Yuan,True
+296,6.0,github-actions[bot],True
+295,6.0,Jiaming Yuan,True
+294,6.0,Jiaming Yuan,True
+293,6.0,ZHAOKAI WANG,True
+292,6.0,Jake Blitch,True
+291,6.0,Philip Hyunsu Cho,True
+290,6.0,Rong Ou,True
+289,6.0,Jacek Laskowski,True
+288,6.0,George Othon,True
+287,6.0,Rong Ou,True
+286,6.0,Jiaming Yuan,True
+285,6.0,Jiaming Yuan,True
+284,6.0,Jiaming Yuan,True
+283,6.0,Jiaming Yuan,True
+282,6.0,Jiaming Yuan,True
+281,6.0,Jiaming Yuan,True
+280,6.0,jasjung,True
+279,6.0,Jiaming Yuan,True
+278,6.0,Jiaming Yuan,True
+277,6.0,Rong Ou,True
+276,7.0,Rong Ou,True
+275,7.0,Jiaming Yuan,True
+274,7.0,Jiaming Yuan,True
+273,7.0,Jiaming Yuan,True
+272,7.0,Jiaming Yuan,True
+271,7.0,Boris,True
+270,7.0,Oliver Holworthy,True
+269,7.0,Jiaming Yuan,True
+268,7.0,Jiaming Yuan,True
+267,7.0,Jiaming Yuan,True
+266,7.0,Rong Ou,True
+265,7.0,Jiaming Yuan,True
+264,7.0,edumugi,True
+263,7.0,Jiaming Yuan,True
+262,7.0,Jiaming Yuan,True
+261,7.0,Rong Ou,True
+260,7.0,jinmfeng001,True
+259,7.0,Cássia Sampaio,True
+258,7.0,Jiaming Yuan,True
+257,7.0,Jiaming Yuan,True
+256,7.0,Jiaming Yuan,True
+255,7.0,Jiaming Yuan,True
+254,7.0,Jiaming Yuan,True
+253,7.0,Jiaming Yuan,True
+252,7.0,Jiaming Yuan,True
+251,7.0,Philip Hyunsu Cho,True
+250,7.0,Jiaming Yuan,True
+249,7.0,Philip Hyunsu Cho,True
+248,7.0,Jiaming Yuan,True
+247,7.0,Jiaming Yuan,True
+246,7.0,Rong Ou,True
+245,7.0,Jiaming Yuan,True
+244,7.0,Jiaming Yuan,True
+243,7.0,Jiaming Yuan,True
+242,7.0,Jiaming Yuan,True
+241,7.0,Jiaming Yuan,True
+240,7.0,Jiaming Yuan,True
+239,7.0,Jiaming Yuan,True
+238,7.0,Bobby Wang,True
+237,7.0,Jiaming Yuan,True
+236,7.0,Nicholas Hilton,True
+235,7.0,Rong Ou,True
+234,7.0,Bobby Wang,False
+233,7.0,Jiaming Yuan,True
+232,8.0,Jiaming Yuan,True
+231,8.0,Rong Ou,True
+230,8.0,Jiaming Yuan,True
+229,8.0,Jiaming Yuan,True
+228,8.0,Hendrik Makait,True
+227,8.0,Jiaming Yuan,True
+226,8.0,jinmfeng001,True
+225,8.0,Philip Hyunsu Cho,True
+224,8.0,Rong Ou,True
+223,8.0,Philip Hyunsu Cho,True
+222,8.0,Philip Hyunsu Cho,True
+221,8.0,Jiaming Yuan,True
+220,8.0,Jiaming Yuan,False
+219,8.0,Philip Hyunsu Cho,True
+218,8.0,Jiaming Yuan,True
+217,8.0,Philip Hyunsu Cho,True
+216,8.0,Jiaming Yuan,True
+215,8.0,joshbrowning2358,True
+214,8.0,Bobby Wang,True
+213,8.0,Jiaming Yuan,True
+212,8.0,Jiaming Yuan,True
+211,8.0,Jiaming Yuan,True
+210,8.0,James Lamb,True
+209,8.0,James Lamb,True
+208,8.0,James Lamb,True
+207,8.0,ShaneConneely,True
+206,8.0,James Lamb,True
+205,8.0,Jiaming Yuan,True
+204,8.0,Jiaming Yuan,True
+203,8.0,Jiaming Yuan,True
+202,8.0,Jiaming Yuan,True
+201,8.0,github-actions[bot],True
+200,8.0,Jiaming Yuan,False
+199,8.0,Bobby Wang,False
+198,8.0,James Lamb,False
+197,8.0,James Lamb,True
+196,8.0,Jiaming Yuan,True
+195,8.0,Boris,True
+194,8.0,James Lamb,True
+193,8.0,Jiaming Yuan,True
+192,8.0,Jiaming Yuan,True
+191,8.0,Sean Yang,True
+190,8.0,Jiaming Yuan,True
+189,8.0,Jiaming Yuan,True
+188,8.0,Bobby Wang,True
+187,8.0,Jiaming Yuan,True
+186,8.0,Thomas Zeger,True
+185,8.0,dependabot[bot],True
+184,8.0,Jiaming Yuan,True
+183,8.0,dependabot[bot],True
+182,8.0,dependabot[bot],True
+181,8.0,Jiaming Yuan,True
+180,8.0,dependabot[bot],True
+179,8.0,Jiaming Yuan,True
+178,8.0,Jiaming Yuan,True
+177,8.0,dependabot[bot],True
+176,8.0,Jiaming Yuan,True
+175,8.0,Jiaming Yuan,True
+174,8.0,Jiaming Yuan,True
+173,8.0,Jiaming Yuan,True
+172,8.0,Rong Ou,True
+171,8.0,Jiaming Yuan,True
+170,8.0,Jiaming Yuan,True
+169,8.0,Jiaming Yuan,True
+168,8.0,Jiaming Yuan,True
+167,8.0,Jiaming Yuan,True
+166,8.0,Jiaming Yuan,True
+165,8.0,Jiaming Yuan,True
+164,8.0,Jiaming Yuan,True
+163,8.0,Jiaming Yuan,True
+162,8.0,dependabot[bot],False
+161,8.0,Jiaming Yuan,True
+160,8.0,Rong Ou,True
+159,9.0,Rong Ou,True
+158,9.0,James Lamb,True
+157,9.0,Bobby Wang,True
+156,9.0,James Lamb,False
+155,9.0,Jiaming Yuan,False
+154,9.0,Jiaming Yuan,True
+153,9.0,Rong Ou,True
+152,9.0,Bobby Wang,True
+151,9.0,Rong Ou,True
+150,9.0,Jiaming Yuan,True
+149,9.0,Jon Yoquinto,False
+148,9.0,Ikko Eltociear Ashimine,True
+147,9.0,Jiaming Yuan,True
+146,9.0,Jiaming Yuan,True
+145,9.0,Jiaming Yuan,True
+144,9.0,Rong Ou,True
+143,9.0,Rong Ou,True
+142,9.0,James Lamb,True
+141,9.0,Jiaming Yuan,True
+140,9.0,Jiaming Yuan,True
+139,9.0,Jiaming Yuan,False
+138,9.0,Jiaming Yuan,False
+137,9.0,Jiaming Yuan,True
+136,9.0,Jiaming Yuan,True
+135,9.0,Jiaming Yuan,True
+134,9.0,Rong Ou,True
+133,9.0,Jiaming Yuan,True
+132,9.0,Jiaming Yuan,True
+131,9.0,Rong Ou,True
+130,9.0,Benoit Chevallier-Mames,True
+129,9.0,Jiaming Yuan,True
+128,9.0,Rong Ou,True
+127,9.0,Jordan Fréry,True
+126,9.0,Rong Ou,True
+125,9.0,Jiaming Yuan,True
+124,9.0,Jordan Fréry,True
+123,9.0,Jiaming Yuan,True
+122,9.0,Jiaming Yuan,True
+121,9.0,Jiaming Yuan,True
+120,10.0,James Lamb,False
+119,10.0,James Lamb,False
+118,10.0,Jiaming Yuan,True
+117,10.0,Jiaming Yuan,True
+116,10.0,Jiaming Yuan,True
+115,10.0,Rong Ou,True
+114,10.0,James Lamb,True
+113,10.0,Jiaming Yuan,True
+112,10.0,James Lamb,True
+111,10.0,Jiaming Yuan,True
+110,10.0,github-actions[bot],True
+109,10.0,Rong Ou,True
+108,10.0,Jiaming Yuan,True
+107,10.0,Philip Hyunsu Cho,True
+106,10.0,Jiaming Yuan,True
+105,10.0,Jiaming Yuan,True
+104,10.0,James Lamb,True
+103,10.0,Philip Hyunsu Cho,True
+102,10.0,Thomas Lynn,True
+101,10.0,Bobby Wang,True
+100,10.0,Rong Ou,True
+99,10.0,Jiaming Yuan,True
+98,10.0,Jiaming Yuan,True
+97,10.0,Dmitry Razdoburdin,True
+96,10.0,Jiaming Yuan,True
+95,10.0,Philip Hyunsu Cho,True
+94,10.0,Chuck Atkins,True
+93,10.0,Rong Ou,True
+92,10.0,Jiaming Yuan,True
+91,10.0,Philip Hyunsu Cho,False
+90,10.0,Philip Hyunsu Cho,True
+89,10.0,Jiaming Yuan,True
+88,10.0,Philip Hyunsu Cho,False
+87,10.0,Hyunsu Cho,False
+86,10.0,Jiaming Yuan,True
+85,10.0,Philip Hyunsu Cho,True
+84,10.0,Philip Hyunsu Cho,True
+83,10.0,Dmitry Razdoburdin,False
+82,10.0,Bobby Wang,False
+81,10.0,Dmitry Razdoburdin,True
+80,10.0,James Lamb,False
+79,10.0,Jiaming Yuan,True
+78,10.0,omahs,True
+77,10.0,Bobby Wang,True
+76,10.0,Jiaming Yuan,True
+75,10.0,Philip Hyunsu Cho,True
+74,10.0,Jiaming Yuan,True
+73,10.0,david-cortes,True
+72,11.0,Philip Hyunsu Cho,True
+71,11.0,Philip Hyunsu Cho,True
+70,11.0,Jiaming Yuan,True
+69,11.0,david-cortes,True
+68,11.0,Bobby Wang,True
+67,11.0,Jiaming Yuan,True
+66,11.0,Jiaming Yuan,True
+65,11.0,Jiaming Yuan,True
+64,11.0,Jiaming Yuan,True
+63,11.0,Jiaming Yuan,True
+62,11.0,Jiaming Yuan,True
+61,11.0,Jiaming Yuan,True
+60,11.0,Ken Geis,True
+59,11.0,Bobby Wang,True
+58,11.0,Jiaming Yuan,True
+57,11.0,Bobby Wang,True
+56,11.0,Jiaming Yuan,True
+55,11.0,Jiaming Yuan,True
+54,11.0,Jiaming Yuan,True
+53,11.0,Jiaming Yuan,True
+52,11.0,Jiaming Yuan,True
+51,11.0,Jiaming Yuan,True
+50,11.0,Jiaming Yuan,True
+49,11.0,Jiaming Yuan,True
+48,11.0,david-cortes,True
+47,11.0,Jiaming Yuan,True
+46,11.0,david-cortes,True
+45,11.0,Jiaming Yuan,True
+44,11.0,Yuan (Terry) Tang,True
+43,11.0,david-cortes,True
+42,11.0,david-cortes,True
+41,12.0,Jiaming Yuan,True
+40,12.0,Jiaming Yuan,True
+39,12.0,david-cortes,True
+38,12.0,Dmitry Razdoburdin,True
+37,12.0,david-cortes,True
+36,12.0,david-cortes,True
+35,12.0,david-cortes,True
+34,12.0,david-cortes,True
+33,12.0,Jiaming Yuan,True
+32,12.0,david-cortes,False
+31,12.0,david-cortes,True
+30,12.0,Jiaming Yuan,True
+29,12.0,Jiaming Yuan,True
+28,12.0,Jiaming Yuan,True
+27,12.0,david-cortes,True
+26,12.0,Jiaming Yuan,True
+25,12.0,Jiaming Yuan,True
+24,12.0,david-cortes,True
+23,12.0,Dmitry Razdoburdin,True
+22,12.0,github-actions[bot],True
+21,12.0,david-cortes,True
+20,12.0,Philip Hyunsu Cho,True
+19,12.0,david-cortes,True
+18,12.0,Jiaming Yuan,True
+17,12.0,Jiaming Yuan,True
+16,12.0,Jiaming Yuan,True
+15,12.0,Dmitry Razdoburdin,True
+14,12.0,david-cortes,True
+13,12.0,Jiaming Yuan,True
+12,12.0,david-cortes,True
+11,12.0,david-cortes,True
+10,12.0,Jiaming Yuan,True
+9,12.0,david-cortes,True
+8,12.0,Michael Mayer,True
+7,12.0,Jiaming Yuan,True
+6,12.0,Michael Mayer,True
+5,12.0,david-cortes,True
+4,12.0,Jiaming Yuan,True
+3,12.0,Philip Hyunsu Cho,True
+2,12.0,david-cortes,True
+1,12.0,david-cortes,True
+0,12.0,david-cortes,True
+Passed all test,,,
