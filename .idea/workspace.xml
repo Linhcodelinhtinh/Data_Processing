@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ded31f62-1cbb-4d6a-8a37-d24ab9fd97dc" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/something/DataMining.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/something/DataMining.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/something/DataProcessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/something/DataProcessing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/something/commit_through_month.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/something/DataMining.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main/DataMining.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/something/DataProcessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main/DataProcessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/something/XGBoost.csv" beforeDir="false" afterPath="$PROJECT_DIR$/main/XGBoost.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/something/commits_by_month.csv" beforeDir="false" afterPath="$PROJECT_DIR$/main/commits_by_month.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/something/raw_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/main/raw_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/something/specified_by_month.csv" beforeDir="false" afterPath="$PROJECT_DIR$/main/specified_by_month.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,22 +41,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.start.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Admin/Documents",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.start.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Documents&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\Documents" />
@@ -101,6 +103,7 @@
       <workItem from="1718330029507" duration="14791000" />
       <workItem from="1718370214492" duration="26000" />
       <workItem from="1718433686846" duration="14300000" />
+      <workItem from="1718462306725" duration="402000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
