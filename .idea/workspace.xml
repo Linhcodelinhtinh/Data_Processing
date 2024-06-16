@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ded31f62-1cbb-4d6a-8a37-d24ab9fd97dc" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/something/DataMining.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main/DataMining.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/something/DataProcessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main/DataProcessing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/something/XGBoost.csv" beforeDir="false" afterPath="$PROJECT_DIR$/main/XGBoost.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/something/commits_by_month.csv" beforeDir="false" afterPath="$PROJECT_DIR$/main/commits_by_month.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/something/raw_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/main/raw_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/something/specified_by_month.csv" beforeDir="false" afterPath="$PROJECT_DIR$/main/specified_by_month.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/DataMining.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main/DataMining.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/DataProcessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main/DataProcessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/raw_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/main/raw_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/specified_by_month.csv" beforeDir="false" afterPath="$PROJECT_DIR$/main/specified_by_month.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +102,8 @@
       <workItem from="1718330029507" duration="14791000" />
       <workItem from="1718370214492" duration="26000" />
       <workItem from="1718433686846" duration="14300000" />
-      <workItem from="1718462306725" duration="402000" />
+      <workItem from="1718462306725" duration="5454000" />
+      <workItem from="1718539377147" duration="10207000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />

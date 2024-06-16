@@ -1341,7 +1341,7 @@ fe9dff339c5f5840bdc461e096f4e9733dafb5be,"Convert federated learner test into te
 
 - `is_categorical` is replaced by `is_categorical_dtype`.
 - one hot encoding returns boolean type instead of integer type.",trivialfis,2023-04-10,"['tests/python/test_basic_models.py', 'tests/python/test_with_pandas.py']",Jiaming Yuan,jm.yuan@outlook.com,True
-ebd64f6e22825ed098e0e31fbd49facd3780630f,[doc] Update Dask deployment options (#9008),scharlottej13,2023-04-06,['doc/tutorials/dask.rst'],Sarah Charlotte Johnson,scharlottej13@gmail.com,False
+ebd64f6e22825ed098e0e31fbd49facd3780630f,[doc] Update Dask deployment options (#9008),scharlottej13,2023-04-06,['doc/tutorials/dask.rst'],Sarah Charlotte Johnson,scharlottej13@gmail.com,True
 1cf4d93246821124cea9720197099857855ba14c,"Convert federated tests into test suite. (#9006)
 
 - Add specialization for learning to rank.",trivialfis,2023-04-03,['tests/cpp/test_learner.cc'],Jiaming Yuan,jm.yuan@outlook.com,True
